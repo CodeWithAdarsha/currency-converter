@@ -46,4 +46,4 @@ This is currency API You can see :
 
 ##### Adarsha.Somanna
 
-**Free Currenct API to use**
+**Free Currency API to use**
