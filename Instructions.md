@@ -38,12 +38,8 @@ http://localhost:8080/swagger-ui/index.html
 ``` 
 
 This is currency API You can see :
-```sh
 
-![image](https://user-images.githubusercontent.com/11813559/213903603-eb1c6933-02e9-493d-b964-5243547d72a9.png)
-
-
-```
+![Alt text](https://user-images.githubusercontent.com/11813559/213903603-eb1c6933-02e9-493d-b964-5243547d72a9.png "a title")
 
 
 ## License
